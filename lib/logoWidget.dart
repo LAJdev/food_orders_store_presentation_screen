@@ -52,7 +52,6 @@ class _LogoWidgetState extends State<LogoWidget>
 
   @override
   void dispose() {
-    // TODO: implement dispose
     super.dispose();
     if (controller != null) {
       controller!.dispose();

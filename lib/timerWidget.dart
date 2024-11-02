@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-
 import 'uiprovider.dart';
 
 class TimerWidget extends StatefulWidget {
@@ -45,7 +44,6 @@ class _TimerWidgetState extends State<TimerWidget>
 
   @override
   void dispose() {
-    // TODO: implement dispose
     controller.dispose();
     super.dispose();
   }
