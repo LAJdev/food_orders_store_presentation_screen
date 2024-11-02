@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:provider/provider.dart';
 
-import 'class.dart';
-import 'dishesStream.dart';
-import 'lockerBox.dart';
-import 'logoWidget.dart';
-import 'uiprovider.dart';
+import 'class/class.dart';
+import 'models/dishes_model.dart';
+import 'widgets/lockerBoxWidget.dart';
+import 'widgets/logoWidget.dart';
+import 'models/ui_model.dart';
 
 void main() {
   ///// Set the device orientation to landscape because our it is

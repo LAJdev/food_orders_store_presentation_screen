@@ -4,7 +4,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-import 'class.dart';
+import '../class/class.dart';
 
 
 class DishesStreamProvider extends ChangeNotifier {

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'uiprovider.dart';
+import '../models/ui_model.dart';
 
 class TimerWidget extends StatefulWidget {
   const TimerWidget({

@@ -4,9 +4,9 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import 'class.dart';
+import '../class/class.dart';
 import 'timerWidget.dart';
-import 'uiprovider.dart';
+import '../models/ui_model.dart';
 
 class BoxWidget extends StatefulWidget {
   const BoxWidget(
