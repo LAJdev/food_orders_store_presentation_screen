@@ -1,5 +1,5 @@
 name: food_orders_store_presentation_screen
-description: "An application that simulate clients ordering dishes. The disches are then put into ovens for a certain duration awaiting to be retrieved by clients."
+description: "An application that simulate clients ordering dishes."
 publish_to: 'none'
 version: 0.1.0
 
